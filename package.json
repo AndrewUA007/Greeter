@@ -1,0 +1,8 @@
+{
+  "name": "Greeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sevRipen/Greeter",
+  "author": "BioLabStreet <andreyzaharenko195@gmail.com>",
+  "license": "MIT"
+}
